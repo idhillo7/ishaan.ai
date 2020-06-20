@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc326f3bb667d1f80538026c3e48751a",
+    "revision": "aee821bc878342ab5ccc0969d1761e0f",
     "url": "/ishaan.ai/index.html"
   },
   {
