@@ -2,9 +2,7 @@
   "name": "material-kit-react",
   "version": "1.8.0",
   "description": "Material Kit React. Coded by Creative Tim",
-  "private": true,
   "homepage": "https://idhillo7.github.io/ishaan.ai",
-  "main" : "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.3.2",
     "@material-ui/icons": "4.2.1",
